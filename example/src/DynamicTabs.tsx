@@ -114,7 +114,7 @@ const styles = StyleSheet.create({
     height: HEADER_HEIGHT,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#2196f3',
+    backgroundColor: '#019B77',
   },
 
   buttonText: {
@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
   },
   listInner: {
     padding: 10,
-    backgroundColor: '#2196f3',
+    backgroundColor: '#019B77',
     color: 'white',
     fontSize: 20,
     alignItems: 'center',

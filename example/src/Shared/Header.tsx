@@ -32,7 +32,7 @@ export { buildHeader }
 
 const styles = StyleSheet.create({
   root: {
-    backgroundColor: '#2196f3',
+    backgroundColor: '#019B77',
     justifyContent: 'center',
     alignItems: 'center',
     padding: 16,

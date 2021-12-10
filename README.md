@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
   header: {
     height: HEADER_HEIGHT,
     width: '100%',
-    backgroundColor: '#2196f3',
+    backgroundColor: '#019B77',
   },
 })
 
