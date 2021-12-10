@@ -62,7 +62,7 @@ const Indicator: React.FC<IndicatorProps> = ({
 const styles = StyleSheet.create({
   indicator: {
     height: 2,
-    backgroundColor: '#019B77',
+    backgroundColor: '#2196f3',
     position: 'absolute',
     bottom: 0,
   },
