@@ -1,5 +1,5 @@
 {
-  "name": "merc-react-native-collapsible-tab-view",
+  "name": "react-native-collapsible-tab-view",
   "version": "4.4.0",
   "description": "Collapsible tab view component for React Native",
   "main": "lib/commonjs/index.js",
